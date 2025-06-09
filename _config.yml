@@ -18,16 +18,16 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder CSV
+title: Frank Westermann's Archive
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Digital Collection Magic with Static Web Technologies
+tagline: The life of an everyday man
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
+description: Frank’s archive offers a glimpse into the life of a young American man in the early-twentieth century. Frank Westerman’s story emerged from a series of correspondences between members of the Westerman family including Frank’s then wife, Elsie Westerman (née Weiffenbach). Frank was born to Robert and Harriett Westerman on 26 October 1884. He was a resident of King County, Washington. He married Elsie Elizabeth Weiffenbach in 1912. Frank was drafted for war in 1918, over a year after the US formally entered World War 1. He died shortly after being drafted, at the age of 34 on 18 April 1919. His cause of death is unclear. Frank was buried in Lake View Cemetery, in Seattle. His gravesite reveals he was a Freemason. As for Elsie, she went on to remarry, was widowed twice and died in 1970.  Frank’s archive is part of a larger collection of postcards from Europe and the United States of America, in the period between 1900 and 1954. 
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho; history; inland northwest
+keywords: postcards;archive;Frank Westernmann;UCSB;
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Camilla Falanesca, Cory Iverson, Kwabena, Tara Acharya, Kwabena Agarye Yeboah
 
 ##########
 # COLLECTION SETTINGS
