@@ -18,7 +18,7 @@ padding: 6em
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-## About CollectionBuilder CSV
+## About this collection
 
 This digital collection features a selection of postcards from the first half of the twentieth century, covering locations in Europe and the United States. It was created as part of a graduate seminar in the History Department at the University of California, Santa Barbara, focused on digital history methods. The project was designed to introduce PhD students to the practical and conceptual work involved in building a digital archive.
 
